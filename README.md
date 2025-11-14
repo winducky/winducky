@@ -23,6 +23,10 @@
   <a href="#"_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373554/django.svg" width="36" height="36" alt="Django" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="36" height="36" alt="CodeIgniter" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="36" height="36" alt="SQLite" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="36" height="36" alt="MSSQL" /></a>
 </p>
 
 ## Activities
