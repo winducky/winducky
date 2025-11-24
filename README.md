@@ -22,6 +22,7 @@
   <a href="#"_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="36" height="36" alt="C#" /></a>
   <a href="#"_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373554/django.svg" width="36" height="36" alt="Django" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="36" height="36" alt="Laravel" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="36" height="36" alt="CodeIgniter" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL" /></a>
